@@ -15,14 +15,13 @@ Cert: [AZ-500](https://learn.microsoft.com/en-us/certifications/resources/study-
 
 ### Resources / Useful Links
 
-https://learn.microsoft.com/en-us/training/
+* https://learn.microsoft.com/en-us/training/
 
-[Azure for students + $100 Azure credits](https://azure.microsoft.com/en-us/free/students/) 
+* [Azure for students + $100 Azure credits](https://azure.microsoft.com/en-us/free/students/) 
 
-[Cloudready skills](https://msftstudentcert.cloudreadyskills.com/) 
-Microsoft certs vouchers - only valid until 18 June 2023
+* [Cloudready skills](https://msftstudentcert.cloudreadyskills.com/) - Microsoft certs vouchers - only valid until 18 June 2023
 
-[Obsidian](https://obsidian.md/)
+* [Obsidian](https://obsidian.md/) -  Note‑taking app 
 
 ### Terminology
 
