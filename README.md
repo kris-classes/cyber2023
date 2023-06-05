@@ -22,5 +22,7 @@ https://learn.microsoft.com/en-us/training/
 [Cloudready skills](https://msftstudentcert.cloudreadyskills.com/) 
 Microsoft certs vouchers - only valid until 18 June 2023
 
+[Obsidian](https://obsidian.md/)
+
 ### Terminology
 
