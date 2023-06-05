@@ -23,5 +23,7 @@ Cert: [AZ-500](https://learn.microsoft.com/en-us/certifications/resources/study-
 
 * [Obsidian](https://obsidian.md/) -  Note‑taking app 
 
+* [Install Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
+
 ### Terminology
 
