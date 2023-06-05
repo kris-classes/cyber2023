@@ -17,5 +17,9 @@ Cert: [AZ-500](https://learn.microsoft.com/en-us/certifications/resources/study-
 
 https://learn.microsoft.com/en-us/training/
 
+### Azure for students + $100 Azure credits
+
+https://azure.microsoft.com/en-us/free/students/
+
 ### Terminology
 
