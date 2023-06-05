@@ -1,1 +1,21 @@
-# cyber
+# Cybersecurity Microcredential
+
+# Intro to Cloud Architecture
+
+Cert: [AZ-104](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-104)
+
+# Intro to Cloud Security
+
+Cert: [SC-900](https://learn.microsoft.com/en-us/certifications/resources/study-guides/sc-900)
+
+# Cloud Security
+
+Cert: [AZ-500](https://learn.microsoft.com/en-us/certifications/resources/study-guides/az-500)
+
+
+### Resources / Useful Links
+
+https://learn.microsoft.com/en-us/training/
+
+### Terminology
+
